@@ -1,0 +1,5 @@
+A machine learning system that detects fraudulent credit card transactions in real-time using classification algorithms and anomaly detection techniques.
+👉 Goal:
+Identify fraud transactions accurately
+Minimize false positives
+Handle highly imbalanced data
